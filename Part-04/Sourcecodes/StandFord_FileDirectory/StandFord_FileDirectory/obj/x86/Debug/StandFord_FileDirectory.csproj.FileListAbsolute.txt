@@ -1,0 +1,7 @@
+E:\DaoTao\StandFord\C091801CB\Part-04\Sourcecodes\StandFord_FileDirectory\StandFord_FileDirectory\bin\Debug\StandFord_FileDirectory.exe
+E:\DaoTao\StandFord\C091801CB\Part-04\Sourcecodes\StandFord_FileDirectory\StandFord_FileDirectory\bin\Debug\StandFord_FileDirectory.pdb
+E:\DaoTao\StandFord\C091801CB\Part-04\Sourcecodes\StandFord_FileDirectory\StandFord_FileDirectory\obj\x86\Debug\StandFord_FileDirectory.Properties.Resources.resources
+E:\DaoTao\StandFord\C091801CB\Part-04\Sourcecodes\StandFord_FileDirectory\StandFord_FileDirectory\obj\x86\Debug\StandFord_FileDirectory.csproj.GenerateResource.Cache
+E:\DaoTao\StandFord\C091801CB\Part-04\Sourcecodes\StandFord_FileDirectory\StandFord_FileDirectory\obj\x86\Debug\StandFord_FileDirectory.exe
+E:\DaoTao\StandFord\C091801CB\Part-04\Sourcecodes\StandFord_FileDirectory\StandFord_FileDirectory\obj\x86\Debug\StandFord_FileDirectory.pdb
+E:\DaoTao\StandFord\C091801CB\Part-04\Sourcecodes\StandFord_FileDirectory\StandFord_FileDirectory\obj\x86\Debug\StandFord_FileDirectory.Form1.resources

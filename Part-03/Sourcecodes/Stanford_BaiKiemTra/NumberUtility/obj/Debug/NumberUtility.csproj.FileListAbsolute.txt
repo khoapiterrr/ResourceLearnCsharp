@@ -1,0 +1,5 @@
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\NumberUtility\bin\Debug\NumberUtility.dll
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\NumberUtility\bin\Debug\NumberUtility.pdb
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\NumberUtility\obj\Debug\NumberUtility.dll
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\NumberUtility\obj\Debug\NumberUtility.pdb
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\NumberUtility\obj\Debug\NumberUtility.csprojResolveAssemblyReference.cache

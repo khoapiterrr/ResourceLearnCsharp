@@ -1,0 +1,10 @@
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\bin\Debug\Stanford_BaiKiemTra.exe
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\bin\Debug\Stanford_BaiKiemTra.pdb
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\obj\x86\Debug\Stanford_BaiKiemTra.Form1.resources
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\obj\x86\Debug\Stanford_BaiKiemTra.Properties.Resources.resources
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\obj\x86\Debug\Stanford_BaiKiemTra.csproj.GenerateResource.Cache
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\obj\x86\Debug\Stanford_BaiKiemTra.exe
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\obj\x86\Debug\Stanford_BaiKiemTra.pdb
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\bin\Debug\NumberUtility.dll
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\bin\Debug\NumberUtility.pdb
+E:\DaoTao\StandFord\C091801CB\Part-03\Sourcecodes\Stanford_BaiKiemTra\Stanford_BaiKiemTra\obj\x86\Debug\Stanford_BaiKiemTra.csprojResolveAssemblyReference.cache

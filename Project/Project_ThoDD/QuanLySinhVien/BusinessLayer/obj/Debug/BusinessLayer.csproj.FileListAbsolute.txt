@@ -1,0 +1,16 @@
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\bin\Debug\DALLayer.dll
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\bin\Debug\DALLayer.pdb
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\bin\Debug\DALLayer.dll
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\bin\Debug\DALLayer.pdb
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\BusinessLayer\obj\Debug\BusinessLayer.pdb

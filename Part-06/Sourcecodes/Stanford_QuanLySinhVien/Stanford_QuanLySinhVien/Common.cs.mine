@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Stanford_QuanLySinhVien
+{
+   public class Common
+    {
+        /// <summary>
+        /// Khai báo chuỗi kết nối để làm việc với db trong SQL Server
+        /// </summary>
+        private static string _ConnectString = @"Server=KHOAPITERRR_99\SQL_2012_EXPRESS; Database=sql_QuanLyNhanVien;Integrated Security = true;";
+
+        public static string ConnectString
+        {
+            get { return _ConnectString; }
+        }
+
+    }
+}

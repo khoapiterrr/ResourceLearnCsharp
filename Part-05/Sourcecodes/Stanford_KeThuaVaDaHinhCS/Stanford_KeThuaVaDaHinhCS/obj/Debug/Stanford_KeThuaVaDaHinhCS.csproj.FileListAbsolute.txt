@@ -1,0 +1,9 @@
+E:\Stanford\Courses\CSharp_Base\CS051801CB\CS051801CB-YC\Part-05\Sourcecodes\Stanford_KeThuaVaDaHinhCS\Stanford_KeThuaVaDaHinhCS\bin\Debug\Stanford_KeThuaVaDaHinhCS.exe
+E:\Stanford\Courses\CSharp_Base\CS051801CB\CS051801CB-YC\Part-05\Sourcecodes\Stanford_KeThuaVaDaHinhCS\Stanford_KeThuaVaDaHinhCS\bin\Debug\Stanford_KeThuaVaDaHinhCS.pdb
+E:\Stanford\Courses\CSharp_Base\CS051801CB\CS051801CB-YC\Part-05\Sourcecodes\Stanford_KeThuaVaDaHinhCS\Stanford_KeThuaVaDaHinhCS\obj\Debug\Stanford_KeThuaVaDaHinhCS.csprojResolveAssemblyReference.cache
+E:\Stanford\Courses\CSharp_Base\CS051801CB\CS051801CB-YC\Part-05\Sourcecodes\Stanford_KeThuaVaDaHinhCS\Stanford_KeThuaVaDaHinhCS\obj\Debug\Stanford_KeThuaVaDaHinhCS.Form1.resources
+E:\Stanford\Courses\CSharp_Base\CS051801CB\CS051801CB-YC\Part-05\Sourcecodes\Stanford_KeThuaVaDaHinhCS\Stanford_KeThuaVaDaHinhCS\obj\Debug\Stanford_KeThuaVaDaHinhCS.Properties.Resources.resources
+E:\Stanford\Courses\CSharp_Base\CS051801CB\CS051801CB-YC\Part-05\Sourcecodes\Stanford_KeThuaVaDaHinhCS\Stanford_KeThuaVaDaHinhCS\obj\Debug\Stanford_KeThuaVaDaHinhCS.csproj.GenerateResource.cache
+E:\Stanford\Courses\CSharp_Base\CS051801CB\CS051801CB-YC\Part-05\Sourcecodes\Stanford_KeThuaVaDaHinhCS\Stanford_KeThuaVaDaHinhCS\obj\Debug\Stanford_KeThuaVaDaHinhCS.csproj.CoreCompileInputs.cache
+E:\Stanford\Courses\CSharp_Base\CS051801CB\CS051801CB-YC\Part-05\Sourcecodes\Stanford_KeThuaVaDaHinhCS\Stanford_KeThuaVaDaHinhCS\obj\Debug\Stanford_KeThuaVaDaHinhCS.exe
+E:\Stanford\Courses\CSharp_Base\CS051801CB\CS051801CB-YC\Part-05\Sourcecodes\Stanford_KeThuaVaDaHinhCS\Stanford_KeThuaVaDaHinhCS\obj\Debug\Stanford_KeThuaVaDaHinhCS.pdb

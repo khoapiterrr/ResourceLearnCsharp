@@ -1,0 +1,10 @@
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\DALLayer\bin\Debug\DALLayer.dll
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\DALLayer\bin\Debug\DALLayer.pdb
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\DALLayer\obj\Debug\DALLayer.dll
+E:\DaoTao\StandFord\C091801CB\Project\Project_ThoDD\QuanLySinhVien\DALLayer\obj\Debug\DALLayer.pdb
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\DALLayer\bin\Debug\DALLayer.dll
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\DALLayer\bin\Debug\DALLayer.pdb
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\DALLayer\obj\Debug\DALLayer.csprojAssemblyReference.cache
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\DALLayer\obj\Debug\DALLayer.csproj.CoreCompileInputs.cache
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\DALLayer\obj\Debug\DALLayer.dll
+E:\BaiGiangCsharp\Project\Project_ThoDD\QuanLySinhVien\DALLayer\obj\Debug\DALLayer.pdb

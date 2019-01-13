@@ -1,0 +1,10 @@
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\bin\Debug\Stanford_QuanLySinhVien.exe
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\bin\Debug\Stanford_QuanLySinhVien.pdb
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\obj\Debug\Stanford_QuanLySinhVien.csprojAssemblyReference.cache
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\obj\Debug\Stanford_QuanLySinhVien.frmDanhSachSinhVien.resources
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\obj\Debug\Stanford_QuanLySinhVien.frmSinhVienAdd.resources
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\obj\Debug\Stanford_QuanLySinhVien.Properties.Resources.resources
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\obj\Debug\Stanford_QuanLySinhVien.csproj.GenerateResource.cache
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\obj\Debug\Stanford_QuanLySinhVien.csproj.CoreCompileInputs.cache
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\obj\Debug\Stanford_QuanLySinhVien.exe
+E:\BaiGiangCsharp\Part-06\Sourcecodes\Stanford_QuanLySinhVien\Stanford_QuanLySinhVien\obj\Debug\Stanford_QuanLySinhVien.pdb

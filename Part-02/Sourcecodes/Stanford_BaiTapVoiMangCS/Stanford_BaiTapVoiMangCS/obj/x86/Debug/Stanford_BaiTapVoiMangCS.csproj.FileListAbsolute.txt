@@ -1,0 +1,4 @@
+E:\DaoTao\StandFord\C091801CB\Part-02\Sourcecodes\Stanford_BaiTapVoiMangCS\Stanford_BaiTapVoiMangCS\bin\Debug\Stanford_BaiTapVoiMangCS.exe
+E:\DaoTao\StandFord\C091801CB\Part-02\Sourcecodes\Stanford_BaiTapVoiMangCS\Stanford_BaiTapVoiMangCS\bin\Debug\Stanford_BaiTapVoiMangCS.pdb
+E:\DaoTao\StandFord\C091801CB\Part-02\Sourcecodes\Stanford_BaiTapVoiMangCS\Stanford_BaiTapVoiMangCS\obj\x86\Debug\Stanford_BaiTapVoiMangCS.exe
+E:\DaoTao\StandFord\C091801CB\Part-02\Sourcecodes\Stanford_BaiTapVoiMangCS\Stanford_BaiTapVoiMangCS\obj\x86\Debug\Stanford_BaiTapVoiMangCS.pdb
